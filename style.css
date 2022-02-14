@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
     width: 100%;
     min-height: 100vh;
     color: white;
-    max-width: var(--desktop-width);
+    max-width: 1200px;
     padding-inline: 20px;
     display: flex;
     place-items: center;
